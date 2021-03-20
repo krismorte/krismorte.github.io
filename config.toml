@@ -1,0 +1,74 @@
+baseURL = "https://krismorte.github.io"
+title = "krismorte"
+theme = "hyde-hyde"
+defaultContentLanguage = "en"
+paginate = 10
+
+[languages]
+  [languages.en]
+	  weight= 1
+  [languages.pt]
+	  weight= 2
+      [languages.pt.Taxonomies]
+        tag = "tags"
+      [[languages.pt.menu.main]]
+        name = "Carreira"
+        identifier = "career"
+        weight = 200
+        url = "/career/"
+      [[languages.pt.menu.main]]
+        name = "Sobre"
+        identifier = "about"
+        weight = 300
+        url = "/about/"
+       [[languages.pt.menu.main]]
+        name = "Tags"
+        identifier = "tags"
+        weight = 300
+        url = "/tags/"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    author = "Krisnamourt da Silva C. Filho"
+    description = "Krisnamourt da Silva C. Filho"
+    authorimage = "/img/pulguenta.png"
+    dateformat = "Jan 2, 2006" 
+
+    # sidebar, copyright & license
+    copyright = "htr3n"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+    custom_css = ["css/custom.css"]
+
+## Main Menu
+[[menu.main]]
+    name = "Career"
+    identifier = "career"
+    weight = 200
+    url = "/career/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
+
+[[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    weight = 300
+    url = "/tags/"
+
+[params.social]
+  LinkedIn = "krisnamourt-filho"
+  stackoverflow = "4722804/krismorte"
+  github = "krismorte"
+  twitter = "krismorte"	
+  instagram = "krismorte"  

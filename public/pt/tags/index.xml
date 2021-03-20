@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on krismorte</title>
+    <link>https://krismorte.github.io/pt/tags/</link>
+    <description>Recent content in Tags on krismorte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Dec 2020 18:55:33 +0000</lastBuildDate><atom:link href="https://krismorte.github.io/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>https://krismorte.github.io/pt/tags/devops/</link>
+      <pubDate>Sat, 05 Dec 2020 18:55:33 +0000</pubDate>
+      
+      <guid>https://krismorte.github.io/pt/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://krismorte.github.io/pt/tags/github/</link>
+      <pubDate>Sat, 05 Dec 2020 18:55:33 +0000</pubDate>
+      
+      <guid>https://krismorte.github.io/pt/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terraform</title>
+      <link>https://krismorte.github.io/pt/tags/terraform/</link>
+      <pubDate>Sat, 05 Dec 2020 18:55:33 +0000</pubDate>
+      
+      <guid>https://krismorte.github.io/pt/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>database</title>
+      <link>https://krismorte.github.io/pt/tags/database/</link>
+      <pubDate>Mon, 13 Apr 2020 18:55:33 +0000</pubDate>
+      
+      <guid>https://krismorte.github.io/pt/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://krismorte.github.io/pt/tags/java/</link>
+      <pubDate>Mon, 13 Apr 2020 18:55:33 +0000</pubDate>
+      
+      <guid>https://krismorte.github.io/pt/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://krismorte.github.io/pt/tags/blog/</link>
+      <pubDate>Fri, 27 Dec 2019 20:32:37 -0300</pubDate>
+      
+      <guid>https://krismorte.github.io/pt/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

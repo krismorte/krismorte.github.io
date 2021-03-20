@@ -1,0 +1,9 @@
+.site__title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+
+ul.posts li{
+    margin-bottom: 25px;
+}

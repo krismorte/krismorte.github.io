@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on krismorte</title>
+    <link>https://krismorte.github.io/tags/blog/</link>
+    <description>Recent content in blog on krismorte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Dec 2019 20:32:37 -0300</lastBuildDate><atom:link href="https://krismorte.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://krismorte.github.io/posts/hello-world/</link>
+      <pubDate>Fri, 27 Dec 2019 20:32:37 -0300</pubDate>
+      
+      <guid>https://krismorte.github.io/posts/hello-world/</guid>
+      <description>My first publication is more &amp;ldquo;why&amp;rdquo; this blog and going directly to the point is to share experience and knowledge in this fast change tech world. A lot of people who I&amp;rsquo;ve been following always said the same thing shared knowledge, write about your experience and the environment that you experienced and which tecnologies are you using today and now I&amp;rsquo;m starting my own jorney here.
+This is not my first blog, I really like to write, my first blog still on-line and was about shows and rock bands in my home town, because of my lack of time I ended for leaving but if you wanna take a look rock-ce.</description>
+    </item>
+    
+  </channel>
+</rss>
