@@ -35,6 +35,7 @@ paginate = 10
     description = "Krisnamourt da Silva C. Filho"
     authorimage = "/img/pulguenta.png"
     dateformat = "Jan 2, 2006" 
+    googleAnalytics = "UA-192635786-1"
 
     # sidebar, copyright & license
     copyright = "htr3n"

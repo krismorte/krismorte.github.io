@@ -24,7 +24,7 @@ At Camed I was the Senior DBA for the all three companies manager at least 15 ms
 ## [Banco do Nordeste BNB](https://www.bnb.gov.br/) — DBA Sr
 *JUL 2009 - MAR 2018, Fortaleza-CE*
 
-Banco do Nordeste is a public bank of fomentation in the northwest of the contry focuses on micro credit and very active in the nine states with more than 300 agencies. In this company I was allocated by three different companies in this order [Stefanini] (https://stefanini.com/en-us), 2009-2014, [Capgemini] (https://www.capgemini.com/en- pt /). 2014-2016 and [Probe] (https://www.sonda.com/en-us/), 2016-2018. Independent of the company I always worked as a DBA MSSQL in the same team
+Banco do Nordeste is a public bank of fomentation in the northwest of the contry focuses on micro credit and very active in the nine states with more than 300 agencies. In this company I was allocated by three different companies in this order [Stefanini](https://stefanini.com/en-us), 2009-2014, [Capgemini](https://www.capgemini.com/en- pt /). 2014-2016 and [SondaIT](https://www.sonda.com/en-us/), 2016-2018. Independent of the company I always worked as a DBA MSSQL in the same team
 which had up to 12 members in a 24x7 operation with shifts for weekends and holidays.
 I usually get to say that if you worked as a DBA in the BNB you fit in anywhere, managing server from 7.5 until 2016 version, stand alone or cluster arrived until nodes, transactional replication involved more than 300 server, tables with 5 billion rows, data migration, servers migration and upgrates, query tuning, SQL development (queries, procedures, trigger), table partitioning, backup and restore and more. At the last we admintrate above 500 sql server between production, approval and testing. Maintenance, backups and restores automation plus several partitioning automation scripts, audit were developed beyond the time-consuming replication of our administration. A very challenging environment and I believe still to be so. Here I also used my programmer skills and whenever possible I created a solution in Java to automate some steps of our daily life as even a system overtime control that was adopted by the contract company
 
@@ -32,7 +32,7 @@ I usually get to say that if you worked as a DBA in the BNB you fit in anywhere,
 ## [Lanlink Informática Ltda](https://www.lanlink.com.br/) — Trainee
 *JUN 2008 - JUL 2009, Fortaleza-CE*
 
-At the time the company was the holder of the Bank of the Northeast`s contract and by the difficult to hired DBA they decided to train new ones. Me and two more colleges was hired in this programming the main activities were taking classes for the certificated anmd following some Senior in the field. Our mentor was o [Fábio Hemilio] (https://www.linkedin.com/in/fabiohemylio/). In six months I took my MCITP SQL Server 2005 and just anxions to play the game.
+As a trainee we were involved in a internal project to training SQL Server DBA and take on  a project. Our activities was take classes to obtain a MCITP certification and follow our senior DBA in projects and daily tasks. Our mentor was [Fábio Hemilio](https://www.linkedin.com/in/fabiohemylio/).
 
 
 ## Projects as a Freelancer
