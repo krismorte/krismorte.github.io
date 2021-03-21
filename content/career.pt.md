@@ -30,7 +30,7 @@ Como estagiário fui envolvido em um projeto interno para formação de DBA SQL 
 
 ## Projetos como Freelancer
 
-> Depois que saí do Banco do Nordeste e conitnuei apenas na Camed como meio período comecei a atuar como freelancer em algumas projetos pequenos e médio porte foi aqui também que tive meu primeiro contato com algumas solução de Cloud com GCP e AWS abaixo os dois principais projetos.
+>  Sempre atuei como DBA e os sistemas que desenvolvia sempre eram projetos pessoais ou algum automação. Como freelancer consegui de fato vivenciar um projeto de desenvolvimento além de atuar em outros papeis dentro da tecnologia. Seguem meus perfis nas plataformas que atuo [Workana](https://www.workana.com/freelancer/9d22f6aafaf0432e235e6dc48e5f611f) e [UpWork](https://www.upwork.com/freelancers/~011b93ab5cbbf7bdca?viewMode=1)
 
 
 ## [MYP-7](https://myp7.com.br/) — Java Dev

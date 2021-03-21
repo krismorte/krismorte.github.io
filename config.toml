@@ -12,15 +12,15 @@ paginate = 10
       [languages.pt.Taxonomies]
         tag = "tags"
       [[languages.pt.menu.main]]
+        name = "Sobre"
+        identifier = "about"
+        weight = 100
+        url = "/about/"
+      [[languages.pt.menu.main]]
         name = "Carreira"
         identifier = "career"
         weight = 200
-        url = "/career/"
-      [[languages.pt.menu.main]]
-        name = "Sobre"
-        identifier = "about"
-        weight = 300
-        url = "/about/"
+        url = "/career/"     
        [[languages.pt.menu.main]]
         name = "Tags"
         identifier = "tags"
@@ -51,15 +51,21 @@ paginate = 10
 
 ## Main Menu
 [[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
     name = "Career"
     identifier = "career"
     weight = 200
     url = "/career/"
 [[menu.main]]
-    name = "About"
-    identifier = "about"
+    name = "Tags"
+    identifier = "tags"
     weight = 300
-    url = "/about/"
+    url = "/tags/"    
+
 
 [[menu.main]]
     name = "Tags"

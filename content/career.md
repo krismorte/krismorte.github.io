@@ -37,7 +37,7 @@ As a trainee we were involved in a internal project to training SQL Server DBA a
 
 ## Projects as a Freelancer
 
-> After a left the Banco do Nordeste project and stay just in the Camed in halt time I started to work in some mid projects as a freelancer was in this time that a I had my firts experice in cloud tecnologies as GCP and AWS, below the main projects that I contributed.
+> I always worked as a DBA and the systems I developed were always personal projects or some automation. As a freelancer I could managed to experience a development project in addition to acting in other roles within technology. Follow my profiles on the platforms I work on [Workana](https://www.workana.com/freelancer/9d22f6aafaf0432e235e6dc48e5f611f) and [UpWork](https://www.upwork.com/freelancers/~011b93ab5cbbf7bdca?viewMode=1)
 
 
 ## [MYP-7](https://myp7.com.br/) — Java Dev
@@ -47,4 +47,4 @@ In this project I was hired as a remote java developer to working in two project
 
 ## [FIXPAY](https://fixpay.com.br/) — Java Dev & Devops
 
-Here through a friend's indication I was hired from a new payment comapny as a remote Java developer. At the begining I had to developer digital contract signature and after evolve to a ticket manager for internal and external calls too. All systems build on-premise, after these projects was started a new project arise to consume EDI Files from acquirers [Adiq](https://www.adiq.com.br/) and [Rede](https://www.userede.com.br/quero-rede?gclid=EAIaIQobChMIh9aJxIbZ5gIVEoWRCh0RRQZrEAAYASAAEgJx3_D_BwE&s_cid=mpg|gog|glp|vt-rede-aquisicao-marca-responsivo-taxa-vendas|cnr|6|sec|CRM0000|-|vt&ef_id=EAIaIQobChMIh9aJxIbZ5gIVEoWRCh0RRQZrEAAYASAAEgJx3_D_BwE:G:s&s_kwcid=AL!673!3!372703000018!e!!g!!rede) to check the payment data. With the system growth was suggested and taken the ideia to migrate all the systems to the AWS cloud with the  EC2, S3, RDS and finally a jenkins implementation to the system pipeline development.
+Here through a friend's indication I was hired from a new payment company as a remote Java developer. At the begining I had to developer digital contract signature and after evolve to a ticket manager for internal and external calls too. All systems build on-premise, after these projects was started a new project arise to consume EDI Files from acquirers [Adiq](https://www.adiq.com.br/) and [Rede](https://www.userede.com.br/quero-rede?gclid=EAIaIQobChMIh9aJxIbZ5gIVEoWRCh0RRQZrEAAYASAAEgJx3_D_BwE&s_cid=mpg|gog|glp|vt-rede-aquisicao-marca-responsivo-taxa-vendas|cnr|6|sec|CRM0000|-|vt&ef_id=EAIaIQobChMIh9aJxIbZ5gIVEoWRCh0RRQZrEAAYASAAEgJx3_D_BwE:G:s&s_kwcid=AL!673!3!372703000018!e!!g!!rede) to check the payment data. With the system growth was suggested and taken the ideia to migrate all the systems to the AWS cloud with the  EC2, S3, RDS and finally a jenkins implementation to the system pipeline development.
