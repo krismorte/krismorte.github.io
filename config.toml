@@ -7,10 +7,23 @@ paginate = 10
 [languages]
   [languages.en]
 	  weight= 1
+      [[languages.en.menu.main]]
+        name = "About"
+        identifier = "about"
+        weight = 100
+        url = "/about/"
+      [[languages.en.menu.main]]
+        name = "Career"
+        identifier = "career"
+        weight = 200
+        url = "/career/"     
+       [[languages.en.menu.main]]
+        name = "Tags"
+        identifier = "tags"
+        weight = 300
+        url = "/tags/"
   [languages.pt]
 	  weight= 2
-      [languages.pt.Taxonomies]
-        tag = "tags"
       [[languages.pt.menu.main]]
         name = "Sobre"
         identifier = "about"
@@ -49,29 +62,7 @@ paginate = 10
 
     custom_css = ["css/custom.css"]
 
-## Main Menu
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 100
-    url = "/about/"
-[[menu.main]]
-    name = "Career"
-    identifier = "career"
-    weight = 200
-    url = "/career/"
-[[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    weight = 300
-    url = "/tags/"    
 
-
-[[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    weight = 300
-    url = "/tags/"
 
 [params.social]
   LinkedIn = "krisnamourt-filho"
